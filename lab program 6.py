@@ -1,0 +1,1 @@
+"""6.Program to what i dont knew o"""
